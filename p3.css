@@ -1,0 +1,83 @@
+* {
+	background-color: #000;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	color: #fff;
+}
+
+h1 {
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	margin: auto;
+	width: 80%;
+}
+
+
+.container .title {
+	text-align: center;
+}
+
+.container .title h1 {
+	margin: 3em 0 0.8em 0;
+	padding: 2px ;
+	font-size: 2.4em;
+}
+
+.container .title p {
+	padding: 0 2px ;
+	font-size: 1.6em;
+}
+
+.play-button {
+	margin: 5em 0 5em 0;
+	text-align: center;
+}
+
+.play-button button {
+	padding: 16px;
+	border:  3px solid #fff;
+	border-radius: 40px;
+}
+
+.quote {
+	text-align: center;
+}
+
+.quote p {
+	font-size: 1.2em;
+	font-style: italic;
+}
+
+.container .section {
+	text-align: center;
+}
+
+
+.section h1{
+	margin: 3em 0 ;
+	padding: 2px;
+	font-size: 2.4em;
+}
+
+.section p{
+	padding: 10px 20% 3em 20%;
+	border-bottom:  2px solid #fff;
+	font-size: 1.4em;
+}
+
+
+.footer p {
+	padding: 2px;
+	margin: 3em 0; 
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.footer a {
+	color: #fff;
+}
